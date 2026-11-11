@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Evangelos Balalas 👋
 
-<!--
-**evangelosbalalas/evangelosbalalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Automation Builder & University Student | London, UK 🇬🇧
 
-Here are some ideas to get you started:
+Focused on building reliable workflow automations, API integrations, and algorithmic trading tools—combining market experience with no-code platforms and AI-assisted Python development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Education
+
+* *Bath Spa University* — Completed Foundation Year; progressing to Level 4
+
+---
+
+### 🏆 Certifications & Verified Badges
+
+<a href="https://credly.com" target="_blank">
+  <img src="./make-foundation.1.png" alt="Make Foundation Certified" width="130" />
+</a>
+
+* *[Make Foundation Certified](https://credly.com)* — Make Academy (Verified via Credly)  
+  Scenario Architecture, Instant Webhooks, Data Mapping, Error Handling, and Operations Optimization.
